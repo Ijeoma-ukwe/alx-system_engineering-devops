@@ -1,0 +1,4 @@
+#!/bin/bash
+C-x C-s
+C-x C-c
+q
