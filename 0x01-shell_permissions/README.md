@@ -10,3 +10,4 @@ script that adds execution permission to the owner, the group owner and the othe
 script that sets the permission to the file hello as follows
  chmod 753 hello
 script that sets the mode of the file hello to this:
+script that sets the mode of the file hello the same as olleh’s mode.
