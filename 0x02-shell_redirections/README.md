@@ -11,3 +11,5 @@ script that duplicates the last line of the file iacta
 script that duplicates the last line of the file iacta
 find . -type f -name "*.js" -delete
 No more javascript
+ script that counts the number of directories and sub-directories in the current directory.
+a script that counts the number of directories and sub-directories in the current directory.
