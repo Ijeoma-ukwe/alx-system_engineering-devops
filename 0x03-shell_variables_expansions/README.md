@@ -9,3 +9,4 @@ Write a script that prints the result of POWER divided by DIVIDE, followed by a 
 script that displays the result of BREATH to the power LOVE
 script that converts a number from base 2 to base 10.
 work
+script that converts a number from base 10 to base 16.
